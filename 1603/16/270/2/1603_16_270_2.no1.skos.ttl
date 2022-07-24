@@ -1,7 +1,6 @@
 PREFIX owl: <http://www.w3.org/2002/07/owl#>
 PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>
 PREFIX skos: <http://www.w3.org/2004/02/skos/core#>
-PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
 
 <urn:mdciii:1603:16:270()>
     a skos:Collection ;
@@ -20,7 +19,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:270:2:101" ;
     skos:prefLabel "Banjul"@eng-Latn ;
-    wdata:q7200235 "GM0101" ;
 .
 
 <urn:mdciii:1603:16()>
@@ -76,7 +74,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:270:2:201" ;
     skos:prefLabel "Fulladu East"@eng-Latn ;
-    wdata:q7200235 "GM0201" ;
 .
 
 <urn:mdciii:1603:16:270:2:202>
@@ -85,7 +82,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:270:2:202" ;
     skos:prefLabel "Kantora"@eng-Latn ;
-    wdata:q7200235 "GM0202" ;
 .
 
 <urn:mdciii:1603:16:270:2:203>
@@ -94,7 +90,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:270:2:203" ;
     skos:prefLabel "Sandu"@eng-Latn ;
-    wdata:q7200235 "GM0203" ;
 .
 
 <urn:mdciii:1603:16:270:2:204>
@@ -103,7 +98,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:270:2:204" ;
     skos:prefLabel "Wuli"@eng-Latn ;
-    wdata:q7200235 "GM0204" ;
 .
 
 <urn:mdciii:1603:16:270:2:301>
@@ -112,7 +106,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:270:2:301" ;
     skos:prefLabel "Foni Bintang Karenai"@eng-Latn ;
-    wdata:q7200235 "GM0301" ;
 .
 
 <urn:mdciii:1603:16:270:2:302>
@@ -121,7 +114,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:270:2:302" ;
     skos:prefLabel "Foni Bondali"@eng-Latn ;
-    wdata:q7200235 "GM0302" ;
 .
 
 <urn:mdciii:1603:16:270:2:303>
@@ -130,7 +122,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:270:2:303" ;
     skos:prefLabel "Foni Brefet"@eng-Latn ;
-    wdata:q7200235 "GM0303" ;
 .
 
 <urn:mdciii:1603:16:270:2:304>
@@ -139,7 +130,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:270:2:304" ;
     skos:prefLabel "Foni Jarrol"@eng-Latn ;
-    wdata:q7200235 "GM0304" ;
 .
 
 <urn:mdciii:1603:16:270:2:305>
@@ -148,7 +138,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:270:2:305" ;
     skos:prefLabel "Foni Kansala"@eng-Latn ;
-    wdata:q7200235 "GM0305" ;
 .
 
 <urn:mdciii:1603:16:270:2:306>
@@ -157,7 +146,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:270:2:306" ;
     skos:prefLabel "Kombo Central"@eng-Latn ;
-    wdata:q7200235 "GM0306" ;
 .
 
 <urn:mdciii:1603:16:270:2:307>
@@ -166,7 +154,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:270:2:307" ;
     skos:prefLabel "Kombo East"@eng-Latn ;
-    wdata:q7200235 "GM0307" ;
 .
 
 <urn:mdciii:1603:16:270:2:308>
@@ -175,7 +162,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:270:2:308" ;
     skos:prefLabel "Kombo North/St Marie"@eng-Latn ;
-    wdata:q7200235 "GM0308" ;
 .
 
 <urn:mdciii:1603:16:270:2:309>
@@ -184,7 +170,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:270:2:309" ;
     skos:prefLabel "Kombo South"@eng-Latn ;
-    wdata:q7200235 "GM0309" ;
 .
 
 <urn:mdciii:1603:16:270:2:401>
@@ -193,7 +178,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:270:2:401" ;
     skos:prefLabel "Fulladu West"@eng-Latn ;
-    wdata:q7200235 "GM0401" ;
 .
 
 <urn:mdciii:1603:16:270:2:402>
@@ -202,7 +186,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:270:2:402" ;
     skos:prefLabel "Janjanbureh"@eng-Latn ;
-    wdata:q7200235 "GM0402" ;
 .
 
 <urn:mdciii:1603:16:270:2:403>
@@ -211,7 +194,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:270:2:403" ;
     skos:prefLabel "Niamina Dankunku"@eng-Latn ;
-    wdata:q7200235 "GM0403" ;
 .
 
 <urn:mdciii:1603:16:270:2:404>
@@ -220,7 +202,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:270:2:404" ;
     skos:prefLabel "Niamina East"@eng-Latn ;
-    wdata:q7200235 "GM0404" ;
 .
 
 <urn:mdciii:1603:16:270:2:405>
@@ -229,7 +210,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:270:2:405" ;
     skos:prefLabel "Niamina West"@eng-Latn ;
-    wdata:q7200235 "GM0405" ;
 .
 
 <urn:mdciii:1603:16:270:2:501>
@@ -238,7 +218,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:270:2:501" ;
     skos:prefLabel "Kanifing"@eng-Latn ;
-    wdata:q7200235 "GM0501" ;
 .
 
 <urn:mdciii:1603:16:270:2:601>
@@ -247,7 +226,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:270:2:601" ;
     skos:prefLabel "Central Baddibu"@eng-Latn ;
-    wdata:q7200235 "GM0601" ;
 .
 
 <urn:mdciii:1603:16:270:2:602>
@@ -256,7 +234,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:270:2:602" ;
     skos:prefLabel "Jokadu"@eng-Latn ;
-    wdata:q7200235 "GM0602" ;
 .
 
 <urn:mdciii:1603:16:270:2:603>
@@ -265,7 +242,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:270:2:603" ;
     skos:prefLabel "Lower Baddibu"@eng-Latn ;
-    wdata:q7200235 "GM0603" ;
 .
 
 <urn:mdciii:1603:16:270:2:604>
@@ -274,7 +250,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:270:2:604" ;
     skos:prefLabel "Lower Niumi"@eng-Latn ;
-    wdata:q7200235 "GM0604" ;
 .
 
 <urn:mdciii:1603:16:270:2:605>
@@ -283,7 +258,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:270:2:605" ;
     skos:prefLabel "Upper Baddibu"@eng-Latn ;
-    wdata:q7200235 "GM0605" ;
 .
 
 <urn:mdciii:1603:16:270:2:606>
@@ -292,7 +266,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:270:2:606" ;
     skos:prefLabel "Upper Niumi"@eng-Latn ;
-    wdata:q7200235 "GM0606" ;
 .
 
 <urn:mdciii:1603:16:270:2:701>
@@ -301,7 +274,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:270:2:701" ;
     skos:prefLabel "Lower Saloum"@eng-Latn ;
-    wdata:q7200235 "GM0701" ;
 .
 
 <urn:mdciii:1603:16:270:2:702>
@@ -310,7 +282,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:270:2:702" ;
     skos:prefLabel "Niani"@eng-Latn ;
-    wdata:q7200235 "GM0702" ;
 .
 
 <urn:mdciii:1603:16:270:2:703>
@@ -319,7 +290,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:270:2:703" ;
     skos:prefLabel "Nianija"@eng-Latn ;
-    wdata:q7200235 "GM0703" ;
 .
 
 <urn:mdciii:1603:16:270:2:704>
@@ -328,7 +298,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:270:2:704" ;
     skos:prefLabel "Sami"@eng-Latn ;
-    wdata:q7200235 "GM0704" ;
 .
 
 <urn:mdciii:1603:16:270:2:705>
@@ -337,7 +306,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:270:2:705" ;
     skos:prefLabel "Upper Saloum"@eng-Latn ;
-    wdata:q7200235 "GM0705" ;
 .
 
 <urn:mdciii:1603:16:270:2:801>
@@ -346,7 +314,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:270:2:801" ;
     skos:prefLabel "Jarra Central"@eng-Latn ;
-    wdata:q7200235 "GM0801" ;
 .
 
 <urn:mdciii:1603:16:270:2:802>
@@ -355,7 +322,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:270:2:802" ;
     skos:prefLabel "Jarra East"@eng-Latn ;
-    wdata:q7200235 "GM0802" ;
 .
 
 <urn:mdciii:1603:16:270:2:803>
@@ -364,7 +330,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:270:2:803" ;
     skos:prefLabel "Jarra West"@eng-Latn ;
-    wdata:q7200235 "GM0803" ;
 .
 
 <urn:mdciii:1603:16:270:2:804>
@@ -373,7 +338,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:270:2:804" ;
     skos:prefLabel "Kiang Central"@eng-Latn ;
-    wdata:q7200235 "GM0804" ;
 .
 
 <urn:mdciii:1603:16:270:2:805>
@@ -382,7 +346,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:270:2:805" ;
     skos:prefLabel "Kiang East"@eng-Latn ;
-    wdata:q7200235 "GM0805" ;
 .
 
 <urn:mdciii:1603:16:270:2:806>
@@ -391,6 +354,5 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:270:2:806" ;
     skos:prefLabel "Kiang West"@eng-Latn ;
-    wdata:q7200235 "GM0806" ;
 .
 

@@ -23,7 +23,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     rdfs:label "1603:16:270:1:1" ;
     obo:BFO_0000124 <urn:mcdiii:1603:16:270:0> ;
     skos:prefLabel "Banjul"@eng-Latn ;
-    wdata:q7200235 "GM01" ;
+    wdata:Q7200235 "GM01" ;
 .
 
 <urn:mdciii:1603:16()>
@@ -52,7 +52,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     rdfs:label "1603:16:270:1:2" ;
     obo:BFO_0000124 <urn:mcdiii:1603:16:270:0> ;
     skos:prefLabel "Basse"@eng-Latn ;
-    wdata:q7200235 "GM02" ;
+    wdata:Q7200235 "GM02" ;
 .
 
 <urn:mdciii:1603:16:270:1:3>
@@ -63,7 +63,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     rdfs:label "1603:16:270:1:3" ;
     obo:BFO_0000124 <urn:mcdiii:1603:16:270:0> ;
     skos:prefLabel "Brikama"@eng-Latn ;
-    wdata:q7200235 "GM03" ;
+    wdata:Q7200235 "GM03" ;
 .
 
 <urn:mdciii:1603:16:270:1:4>
@@ -74,7 +74,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     rdfs:label "1603:16:270:1:4" ;
     obo:BFO_0000124 <urn:mcdiii:1603:16:270:0> ;
     skos:prefLabel "Janjanbureh"@eng-Latn ;
-    wdata:q7200235 "GM04" ;
+    wdata:Q7200235 "GM04" ;
 .
 
 <urn:mdciii:1603:16:270:1:5>
@@ -85,7 +85,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     rdfs:label "1603:16:270:1:5" ;
     obo:BFO_0000124 <urn:mcdiii:1603:16:270:0> ;
     skos:prefLabel "Kanifing"@eng-Latn ;
-    wdata:q7200235 "GM05" ;
+    wdata:Q7200235 "GM05" ;
 .
 
 <urn:mdciii:1603:16:270:1:6>
@@ -96,7 +96,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     rdfs:label "1603:16:270:1:6" ;
     obo:BFO_0000124 <urn:mcdiii:1603:16:270:0> ;
     skos:prefLabel "Kerewan"@eng-Latn ;
-    wdata:q7200235 "GM06" ;
+    wdata:Q7200235 "GM06" ;
 .
 
 <urn:mdciii:1603:16:270:1:7>
@@ -107,7 +107,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     rdfs:label "1603:16:270:1:7" ;
     obo:BFO_0000124 <urn:mcdiii:1603:16:270:0> ;
     skos:prefLabel "Kuntaur"@eng-Latn ;
-    wdata:q7200235 "GM07" ;
+    wdata:Q7200235 "GM07" ;
 .
 
 <urn:mdciii:1603:16:270:1:8>
@@ -118,6 +118,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     rdfs:label "1603:16:270:1:8" ;
     obo:BFO_0000124 <urn:mcdiii:1603:16:270:0> ;
     skos:prefLabel "Mansa Konko"@eng-Latn ;
-    wdata:q7200235 "GM08" ;
+    wdata:Q7200235 "GM08" ;
 .
 

@@ -1,7 +1,6 @@
 PREFIX owl: <http://www.w3.org/2002/07/owl#>
 PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>
 PREFIX skos: <http://www.w3.org/2004/02/skos/core#>
-PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
 
 <urn:mdciii:1603:16:270()>
     a skos:Collection ;
@@ -20,7 +19,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:270:1:1" ;
     skos:prefLabel "Banjul"@eng-Latn ;
-    wdata:q7200235 "GM01" ;
 .
 
 <urn:mdciii:1603:16()>
@@ -47,7 +45,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:270:1:2" ;
     skos:prefLabel "Basse"@eng-Latn ;
-    wdata:q7200235 "GM02" ;
 .
 
 <urn:mdciii:1603:16:270:1:3>
@@ -56,7 +53,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:270:1:3" ;
     skos:prefLabel "Brikama"@eng-Latn ;
-    wdata:q7200235 "GM03" ;
 .
 
 <urn:mdciii:1603:16:270:1:4>
@@ -65,7 +61,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:270:1:4" ;
     skos:prefLabel "Janjanbureh"@eng-Latn ;
-    wdata:q7200235 "GM04" ;
 .
 
 <urn:mdciii:1603:16:270:1:5>
@@ -74,7 +69,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:270:1:5" ;
     skos:prefLabel "Kanifing"@eng-Latn ;
-    wdata:q7200235 "GM05" ;
 .
 
 <urn:mdciii:1603:16:270:1:6>
@@ -83,7 +77,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:270:1:6" ;
     skos:prefLabel "Kerewan"@eng-Latn ;
-    wdata:q7200235 "GM06" ;
 .
 
 <urn:mdciii:1603:16:270:1:7>
@@ -92,7 +85,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:270:1:7" ;
     skos:prefLabel "Kuntaur"@eng-Latn ;
-    wdata:q7200235 "GM07" ;
 .
 
 <urn:mdciii:1603:16:270:1:8>
@@ -101,6 +93,5 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:270:1:8" ;
     skos:prefLabel "Mansa Konko"@eng-Latn ;
-    wdata:q7200235 "GM08" ;
 .
 
